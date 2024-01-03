@@ -7,7 +7,7 @@ Soy un apasionado Programador Fullstack con enfoque en el diseño Front-end. con
 Actualmente, me dedico a la creación de proyectos que no solo impulsan mi desarrollo como programador, sino que también tienen el propósito de hacer la vida de las personas más fácil y efectiva. Me apasiona la creación de productos que marcan la diferencia. 💻🌍
 
 ## ¿Qué tecnologías utilizo?
-A lo largo de mi apasionante viaje en el mundo de la tecnología, he adquirido habilidades profesionales en diversas tecnologías, gracias a valiosas fuentes de conocimiento, incluyendo el Bootcamp de Henry. Mis áreas de especialización incluyen:
+A lo largo de mi apasionante viaje en el mundo de la tecnología, he adquirido habilidades profesionales en diversas tecnologías, gracias a valiosas fuentes de conocimiento, incluyendo el Bootcamp de [SoyHenry](https://www.soyhenry.com/). Mis áreas de especialización incluyen:
 
 ### Front-end
 - Javascript
