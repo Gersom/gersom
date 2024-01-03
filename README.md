@@ -1,46 +1,37 @@
-# Hola! Mi nombre es Gersom Alaja
+# ¡Hola! Soy Gersom Alaja
+Apasionado Programador Fullstack con enfoque en el diseño Front-end. 🚀
 
-### ¿Quién soy?
-Soy un **Programador Fullstack** orientado al diseño Front-end
+## ¿Quién soy?
+Con más de 8 años de experiencia en el fascinante mundo de la programación, he evolucionado mi carrera hacia el desarrollo Fullstack. Mi curiosidad innata y el deseo de comprender a fondo el funcionamiento de las aplicaciones me han llevado a explorar y abrazar nuevos retos y oportunidades para seguir aprendiendo y creciendo profesionalmente. 🌱💡
 
-Tambien soy un apasionado por la tecnología con más de 8 años de experiencia en el mundo de la programación.
-Mi curiosidad y deseo de entender el funcionamiento completo de las aplicaciones me llevaron a explorar el desarrollo Fullstack.
-Siempre estoy en busca de nuevos retos y oportunidades para aprender y crecer como profesional
+## ¿Qué hago?
+Actualmente, me dedico a la creación de proyectos que no solo impulsan mi desarrollo como programador, sino que también tienen el propósito de hacer la vida de las personas más fácil y efectiva. Me apasiona la creación de productos que marcan la diferencia. 💻🌍
 
-### ¿Qué hago?
+## ¿Qué tecnologías utilizo?
+A lo largo de mi apasionante viaje en el mundo de la tecnología, he adquirido habilidades profesionales en diversas tecnologías, gracias a valiosas fuentes de conocimiento, incluyendo el Bootcamp de Henry. Mis áreas de especialización incluyen:
 
-Actualmente me dedido a realizar proyectos que me ayudan a avanzar como programador, **me fascina crear productos y poder ayudar a las personas en los mismos**
+### Front-end
+- Javascript
+- React
+- Vue
+- Tailwindcss
+- StyleComponents
+- SASS
 
-### ¿Qué tecnologías uso?
+### Back-end
+- NodeJs
+- Express
+- PostgreSQL (sequelize)
+- MongoDB (mongoose)
 
-A lo largo de viaje como apasionado de la tecnologia, gracias a los diferentes fuentes de conocimiento que me ayudaron en mi camino, el ultimo de ellos el Bootcamp de Henry, he adquirido ser profesional en las siguientes tecnologias
+Además, estoy familiarizado con herramientas de diseño como **Figma**, **Photoshop** e **Illustrator**. 🎨
 
-* Javascript
-* Git
+## No dudes en contactarme
+Estoy abierto a colaboraciones y proyectos innovadores. Si tienes una idea o proyecto que pueda mejorar la vida de las personas, ¡hablemos! 🤝
 
-Front-end
+**LinkedIn:** [Gersom Alaja](https://www.linkedin.com/in/gersomalaja/)  
+**Correo:** gersomalaja@gmail.com 📬
 
-* React
-* Vue
-* Tailwindcss
-* StyleComponents
-* SASS
-
-Back-end
-
-* NodeJs
-* Express
-* PostgreSQL - sequelize
-* MongoDB - mongoose
-
-Entre otras herramientas, tambien tengo conocimien to en **Figma**, **Photoshop** e **Illustrator**
-
-### No dudes en contactarme
-
-Juntos podemos realizar proyectos que mejoren la vida de las personas.
-
-[Linkedin](https://www.linkedin.com/in/gersomalaja/).
-Correo: gersomalaja@gmail.com
 
 <!--
 **Gersom/gersom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
