@@ -22,6 +22,9 @@ Front-end
 
 * React
 * Vue
+* Tailwindcss
+* StyleComponents
+* SASS
 
 Back-end
 
