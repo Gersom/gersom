@@ -17,7 +17,7 @@ A lo largo de viaje como apasionado de la tecnologia, gracias a los diferentes f
 
 * Javascript
 * Git
-* 
+
 Front-end
 
 * React
