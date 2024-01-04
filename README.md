@@ -1,7 +1,7 @@
 # ¡Hola! Soy Gersom Alaja 🚀
 
 ## ¿Quién soy?
-Soy un apasionado Programador Fullstack con enfoque en el diseño Front-end. con más de 8 años de experiencia en el fascinante mundo de la programación, he evolucionado mi carrera hacia el desarrollo Fullstack. Mi curiosidad innata y el deseo de comprender a fondo el funcionamiento de las aplicaciones me han llevado a explorar y abrazar nuevos retos y oportunidades para seguir aprendiendo y creciendo profesionalmente. 🌱💡
+Soy un apasionado Programador Fullstack con enfoque en el diseño Front-end. con más de 5 años de experiencia en el fascinante mundo de la programación, he evolucionado mi carrera hacia el desarrollo Fullstack. Mi curiosidad innata y el deseo de comprender a fondo el funcionamiento de las aplicaciones me han llevado a explorar y abrazar nuevos retos y oportunidades para seguir aprendiendo y creciendo profesionalmente. 🌱💡
 
 ## ¿Qué hago?
 Actualmente, me dedico a la creación de proyectos que no solo impulsan mi desarrollo como programador, sino que también tienen el propósito de hacer la vida de las personas más fácil y efectiva. Me apasiona la creación de productos que marcan la diferencia. 💻🌍
